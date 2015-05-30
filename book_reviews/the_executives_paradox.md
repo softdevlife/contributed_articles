@@ -1,3 +1,5 @@
+Reference: https://www.goodreads.com/book/show/18971055-the-executive-s-paradox
+
 The book provides a new paradigm for the executive mindset to follow in order to meet the demands of our current and "await to be" needs of our society.
 
 Many leadership books today are autobiographies or put their full dedication on a specific leadership skill. Some readers can resonate with the author's autobiography. Furthermore, specific leadership skill books can also make a difference for leaders' blind spot. However, in both cases, these books are just a "tree within a forest" of what the whole picture leadership is all about.
