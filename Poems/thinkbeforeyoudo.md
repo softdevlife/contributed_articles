@@ -65,7 +65,7 @@ For that is the real kingdom of god
 As for today, I say to you, think before you do!
 
 To places that were abundant, people are lucky and have the choice not to live life with divinity
-But deluded they indeed are as the abundancy is just an illusion
+But deluded they indeed are as the abundance is just an illusion
 As although indeed all great things in life come to an end and they only start to come over again once we do great things again
 Fear not! For I tell you, you do not have to follow that vicious cycle, for as long you do great things eternally, eternally you will receive the fruits of eden
 
