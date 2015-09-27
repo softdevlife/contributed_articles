@@ -51,7 +51,7 @@ However, many followed laws to keep what they already was not abundant instead o
 Foolish as they be! 
 For they followed how to keep what they already had instead follow the divinity and integrity of our society. 
 The herds that followed them, the next generation to be, they were living on a cause far less than they ought to be
-Only cattle that was blind could follow such master, cattle that likes to waste the abundance of the world inefficently
+Only cattle that was blind could follow such master, cattle that likes to waste the abundance of the world inefficiently
 Cattle that do not think, but only do
 Because although their master rightly thought of the divine rules of the law
 Clenched the master was, with arrogance, to his world that was not abundant, to keep it for himself until he died
@@ -90,7 +90,7 @@ On the other side, the people who were not blessed were sensitive to their sensi
 
 Most of the blessed people left for that department to share the great world of god because it was the duty to do so and now I am all left alone to see its misery
 A department that was ranked the same as others is now at its pity compared to other departments that followed the right divinity
-Oh might you! Who teached those children to become only man, but no heroes!? 
+Oh might you! Who taught those children to become only man, but no heroes!? 
 For there is many man who can be conceit and arrogant, but few heroes who care the collective level of the world!
 For the people who are just man, but no heroes, I tell you: god gave you the opportunity to act rightly and you may never meet the same fate again to own such power
 How everlasting your kingdom will last is between you transcending to be a hero or still keeping the arrogance and conceit of a man
