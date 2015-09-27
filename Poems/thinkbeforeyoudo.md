@@ -1,3 +1,5 @@
+Poem's video link: https://www.youtube.com/watch?v=mXz5at6vt7c
+
 <pre>
 THINK BEFORE YOU DO!
 
