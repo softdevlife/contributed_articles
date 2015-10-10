@@ -5,7 +5,12 @@
 
 - The second priority is **internal**: To care about the product and the people who are working there. Product is made out of people. So the source of all effect is by people. In order to really care about the people, strategize on an environment that keeps BOTH `tasks` efficiently WHILE accomodating `people's` workflow in productive roles.
 
-- The third priority is to have a **balance** to the `external` and `internal` roles of the business: As simple as it sounds, many care about the internal implications why the staff don't work productively in a business model that is not sustainable or a corporation that is very abundant from external sources that doesn't mind or care to find out why it has a high turnover rate of employees with bad management choice of keeping balance of the internal tasks. This results in a company that later on may become susceptible with its limited staff to implement their vision.
+- The third priority is to have a **balance** to the `external` and `internal` roles of the business: As simple as it sounds, there are stories where: 
+
+1. Many care about the internal implications why the staff don't work productively in a business model that is not sustainable 
+2. A corporation that is very abundant from external sources that doesn't mind or care to find out why it has a high turnover rate of employees with bad management choice of keeping balance of what is going internally. 
+
+> This results in a company that later on may become susceptible with its limited staff to implement their vision.
 
 ## Conclusion
 - Follow those 3 principles and you have work culture. 
