@@ -1,4 +1,4 @@
-**Original Article can be found at @buzzwriter:** http://www.inc.com/peter-economy/9-things-to-take-your-linkedin-profile-and-resume-from-good-to-great.html
+**Original Article can be found at @bizzwriter:** http://www.inc.com/peter-economy/9-things-to-take-your-linkedin-profile-and-resume-from-good-to-great.html
 
 *(If my comment cannot be found, then it means that they removed it)*
 
