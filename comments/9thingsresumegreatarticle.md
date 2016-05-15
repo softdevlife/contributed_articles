@@ -1,5 +1,5 @@
 **Original Article can be found at @bizzwriter:** http://www.inc.com/peter-economy/9-things-to-take-your-linkedin-profile-and-resume-from-good-to-great.html
-
+**Analysis/More details about this comment on my blog post**: http://softwaredeveloperlife.blogspot.my/2016/05/on-personal-identity-and-careers.html
 *(If my comment cannot be found, then it means that they removed it)*
 
 Some feedback.   
