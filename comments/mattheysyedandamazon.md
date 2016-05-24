@@ -1,5 +1,7 @@
 **Original Article can be found @cityam:** http://www.cityam.com/241753/matthew-syed-what-doctors-pilots-and-f1-drivers-can-teach-us-about-failure
 
+(If my comment cannot be found, then it means that they removed it)
+
 I agree everything whole heartedly of the above except of the example of Amazon. Amazon shows that it accepts customer complaints (opening the black box) to make its tasks (processes, platform, product) better, but in terms of people, the employees, they treat their feedback as the Pandora black box traditional hospitals do. To back this up as most of the people are unaware of, there is a site called the face of Amazon: https://sites.google.com/site/thefaceofamazon/ which has a collection of news articles and testimonials about employees bad experiences in Amazon. 
 
 Amazon does not show traits of using the black box to its employees. Firstly, they do not bring a beginner mindset, such as private investigators airlines do. They do not try to bring someone to look at inside their offices of what is "internally" happening. A lot of articles on Amazon emphasise how they try to avoid unions at all costs. In addition, instead of solving the problems of employees disputes, they give severance packages in order to conceal the truth, which most of the testimonials within that site attest to.
