@@ -1,6 +1,6 @@
 **Original Article can be found @cityam:** http://www.cityam.com/241753/matthew-syed-what-doctors-pilots-and-f1-drivers-can-teach-us-about-failure
 
-**Analysis/More details about this comment, especially the last 2 paragraphs, clarifying that it does not address the main source of the problem to Amazon but instead the people's purchasing power as the main source of the problem, within my blog post:** http://softwaredeveloperlife.blogspot.my/2016/05/on-personal-identity-and-careers.html
+**Analysis/More details about this comment, especially the last 2 paragraphs, clarifying that it does not address the main source of the problem to Amazon but instead the people's purchasing power as the main source of the problem, within my blog post:** http://softwaredeveloperlife.blogspot.sg/2016/05/why-creating-next-social-network.html
 
 *(If my comment cannot be found, then it means that they removed it)*
 
