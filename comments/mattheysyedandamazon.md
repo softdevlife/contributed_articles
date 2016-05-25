@@ -1,5 +1,7 @@
 **Original Article can be found @cityam:** http://www.cityam.com/241753/matthew-syed-what-doctors-pilots-and-f1-drivers-can-teach-us-about-failure
 
+**Analysis/More details about this comment, especially the last 2 paragraphs, clarifying that it does not address the main source of the problem to Amazon but instead the people's purchasing power as the main source of the problem, within my blog post:** http://softwaredeveloperlife.blogspot.my/2016/05/on-personal-identity-and-careers.html
+
 *(If my comment cannot be found, then it means that they removed it)*
 
 I agree everything whole heartedly of the above except of the example of Amazon. Amazon shows that it accepts customer complaints (opening the black box) to make its tasks (processes, platform, product) better, but in terms of people, the employees, they treat their feedback as the Pandora black box traditional hospitals do. To back this up as most of the people are unaware of, there is a site called the face of Amazon: https://sites.google.com/site/thefaceofamazon/ which has a collection of news articles and testimonials about employees bad experiences in Amazon. 
