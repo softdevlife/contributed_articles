@@ -1,3 +1,5 @@
+Reference: https://www.goodreads.com/review/show/1293559328
+
 Theology back to its true colors
 
 Recent theology only views current cultures and norms of different religions and derive some understanding out of that. However, it has not based on such methodology to attribute yet a very “clear” picture of a grand explanation and purpose of our own individuality like math and science does when it describes about the natural laws of the empirical world. This book tries to attempt that human individuality can be explained if we put the same scientific thinking caps for understanding individuality (and there is even a bigger surprise what else it correlates to if we see the same objects into different perspectives than how current society perceives them due to our current partial understanding). 
