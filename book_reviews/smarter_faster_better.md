@@ -1,3 +1,5 @@
+Reference: https://www.goodreads.com/review/show/1693094949
+
 Excellent Reference Book On How we influence ourselves with our mind.
 
 The book goes over eight highlight traits that make people or organizations the most productive.The word productive is a weird name for me. I always feel it has a connotation of producing output better through innovation, marginal gains through doing smarter, and faster by removing any bottlenecks on the development cycle. The same principles the author describes can also be attributed to progressing our ideas into reality. If anything, the act of advancing ourselves may be the whole grand explanation of why we live in this world. I prefer that term better.
