@@ -1,0 +1,17 @@
+**Original Article can be found at @nireyal:** http://www.nirandfar.com/2016/08/tech-distractions-addictions.html
+
+Great model factoring the value of a human within society by how potent the specific events we interact with (does it help our self and others in the long term?) and the level of commitment (do they represent a strong habit?).
+
+I think the content of self-development models overlap with each other so I will share my thoughts.
+
+From the factors you described, the process to take us out to get the best value to ourselves is by planning. Describing problems and becoming independent of the adversity of external influences that make us addicted are well described in the book "The Power of Habit" by Charles Duhigg "Starbucks Culture" in Chapter 5 and the "Neurology of Free will in Gambling" in Chapter 9 correspondingly. I have to admit, sometimes my head can get overheated and doing pun jokes or do activities that require less stamina with our brain or body are OK ways to cool off like a good night sleep. Distractions may be an artificial extrinsic reward that you want to explicitly express yourself you are doing good progress. However, if a "good night sleep" becomes our religion, then you know all that huge effort was not put in faith intrinsically.
+
+I created my own model too by the way. I call it HLPR (it stands for Health Learning Planning Relationships). Health is basically the same as Necessities described in this blog. It is a prerequisite in order to perform the best and have a clear mind. Good note on moderation though which I have totally missed. There is a line that improving too much of our own self will not make much difference. As long as we can perform well long term wise with basic necessities, we don't need to have all the cosmetic add-ons.
+
+The fight between Addictions and Good can all be factored into our Planning. Let Planning do the job and Good prevails. Ignore planning and you become a more easy prey to succumb to addictions. Planning is "part" of HLPR. Planning is the glue that gets us to the Good stuff.
+
+However, I created an extra layer by describing what Good represents in "context". I split it into two elements and many coaches practice this: Learning and Relationships. Learning comes first as you don't want to re-invent the wheel. That is why schools exist in the first place. On the other hand, relationships are where you become a member of society and create a big impact. Some people dive into Relationships straight through and can become great politicians and leaders. However, that may not last long as they may not have the right ropes to slide through the maze with high chances to end up in a mid-life crisis.
+
+On a side note, I liked that you related people who not plan as "apraxia" and how you correlate it with Aristotle and Socrates. Socrates was even used as an illustrative example on John Locke Personal Identity. Even I used Socrates method of induction to correlate Charles Duhigg "Smarter, Faster, Better" Chapter 1 "Motivation and Bias of Action". The way induction was delegated instead of being forced down to our throat by the Philosopher Socrates may have been a huge factor for the widespread adoption to Philosophy as more people could be motivated and express their own thoughts. Too bad it took such a long time since then for organizations to take note and become more decentralized.
+
+All in all, guess we all quench for a drop of that "Form of Good" Plato was always talking about.
