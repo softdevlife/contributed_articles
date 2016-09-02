@@ -14,6 +14,8 @@ Take a read: http://ow.ly/XLk9303AenO
 
 In the following video, I express two personal experiences I had in the past within workplace environments: One of the projects was too agile while the other one was too structured. Being too agile or too structured can make a software impossible to maintain and deliverables not meeting clients and employees expectations correspondingly.
 
+**Mental Symmetry** wise, **Exhorter** is being **Empowering** (**Mercy**) to `meet people's needs` by a **Vision** that is messy (**Teacher**) that can accumulate technical debt. **Contributor** is **Commanding** (**Server**) in order to be **Rational** (**Perceiver**) to `meet the system's needs` (**Teacher**) at the sacrifice of meeting people's needs. That is one of the main reasons why leadership has a high rate of success when it is paired with an **Exhorter** and **Contributor** person. However, in order for that pair to work well out, they have to focus how they compliment with each other instead only on their strengths.
+
 Video Transcript: http://ow.ly/tylW303OWVT
 
 Take a watch: https://www.youtube.com/watch?v=qJmirsBGTDc
