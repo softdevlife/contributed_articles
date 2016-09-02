@@ -38,6 +38,8 @@ In the latest *CNBC article "Nobody believes anything anymore"* http://ow.ly/Jbe
 
 Recovery won't always be smooth and easy. Nonetheless, it requires an increase focus on projects that invest in innovation, as well educating the people on new skills, such as leadership and the application of the new fields of technology to make their working environment productive, efficient, and harmonized.
 
+My analysis of the 2015 Greek Referendum: http://ow.ly/QICa303QLyJ
+
 Video Transcript: http://ow.ly/pj01303P1Ih
 
 Take a watch: https://www.youtube.com/watch?v=s7FEHHnecCA
