@@ -39,7 +39,7 @@ This can be found in detail, as I quote from the book:
 
 [![femalebrain](https://cloud.githubusercontent.com/assets/12673581/18255178/4353d374-73d9-11e6-908d-29023908b97e.png)](https://www.goodreads.com/review/show/1644690931)
 
-## Demistifying The Gender Gap - Socrates Wisdom On Relationships
+## Demystifying The Gender Gap - Socrates Wisdom On Relationships
 
 We all have a **Mercy** component, whether we are male or female, we all get affected by some form of **sensitivity**. We have to respect the hardware difference and the neurochemicals that exist between the male and female gender. Being in denial is being unscientific and it will hurt decisions that alter the original truth. **Being politically correct gives less motivation for men to be more compassionate and women to self-reflect and look at the details**. We accept *Piaget scientific findings* of the `stages of childhood brain development`. It helped us to put children learn the correct material at appropriate ages through the school curriculum. Why can we not accept these scientific facts about the male and female brain in order to make all people optimally in their life like we do for our youth?
 
