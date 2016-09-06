@@ -35,7 +35,7 @@ This can be found in detail, as I quote from the book:
 
 >Our distinct female and male brain operating systems are mostly compatible adept, but they perform and accomplish the same goals and tasks using different circuits. In a German study, researchers conducted brain scans of men and women while they mentally rotated abstract, three-dimensional shapes. There were no performance differences between the men and women, but there were significant, sex-specific differences in the brain circuits that activated to complete the task. Women triggered brain pathways linked to visual identification and spent more time than men picturing the objects in their minds. This fact merely meant that it took women longer to get to the same answer. It also showed that females perform all the cognitive functions males peform - they just do so by using different brain circuits.
 
-[Read my review](https://www.goodreads.com/review/show/1644690931) of *The Famale Brain by Louann Brizendine*: 
+[Read my review](https://www.goodreads.com/review/show/1644690931) of *The Female Brain by Louann Brizendine*: 
 
 [![femalebrain](https://cloud.githubusercontent.com/assets/12673581/18255178/4353d374-73d9-11e6-908d-29023908b97e.png)](https://www.goodreads.com/review/show/1644690931)
 
