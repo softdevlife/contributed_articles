@@ -68,7 +68,7 @@ To some extent, I feel that I have a mental map of one of the highest level. I h
 
 Teaching, being a mentor, is a very important thing. No matter what my works I do, if nobody knows the essence behind them, they will depend on me for my works, instead of the rest of the people becoming independent. We are machine learners where our goal is to: 
 * Understand our environment in order to improve our physical life (we have capitalized on how to do iterative improvements on getting closer to that platonic form).
-* Our selves in order to improve our relationship/communication with others (we are still in progress on this and my blog dedicates the most on that topic).
+* Understading our selves in order to improve our relationship/communication with others (we are still in progress on this and my blog dedicates the most on that topic).
 
 **It is the collective level forces that will trap the next generation**. Every person that contributes influencing the existing paradigm that the collective level has *for the better* **counts**.
 
