@@ -15,7 +15,7 @@ Our values (also termed as `framework` or `mental map`) are symbolic (abstract) 
 
 >What occurs during a scientific revolution is not fully reducible to a reinterpretation of individual and stable data. In the first place, the data are not unequivocally stable. A pendulum is not a falling stone, nor is oxygen dephlogisticated air. Consequently, the data that scientists collect from these diverse objects are, as we shall shortly see, themselves different. More important, the process by which either the individual or the community makes the transition from constrained fall to the pendulum or from dephlogisticated air to oxygen is not one that resembles interpretation. How could it do so in the absence of fixed data for the scientist to interpret? Rather than being an interpreter, the scientist who embraces a new paradigm is like the man wearing inverting lenses. (pp.121-22) 
 
-[![deadendworshippingshadows](https://cloud.githubusercontent.com/assets/12673581/19104110/548f9484-8b0d-11e6-921d-407ec8b05e26.png)](https://github.com/softdevlife/contributed_articles/blob/master/selfdevboostermentalmaptour/week6.md)
+[![deadendworshippingshadows](https://cloud.githubusercontent.com/assets/12673581/19104110/548f9484-8b0d-11e6-921d-407ec8b05e26.png)](https://github.com/softdevlife/contributed_articles/blob/master/comments/allegoryofthecave.md)
 
 *The content of Mental Networks can be represented like the shadows in Plato's Allegory of the cave. The shadows itself does not give us much clues about the meaning of life, as much as the source behind how those shadows are constructed.*
 
