@@ -201,7 +201,7 @@ Find out the explanation and details by [taking a read](http://www.huffingtonpos
 
 [![birthorder](https://cloud.githubusercontent.com/assets/12673581/22602146/f70d48f4-ea7c-11e6-96a7-1c6fced38380.png)](http://www.huffingtonpost.com/dr-gail-gross/how-birth-order-affects-personality_b_4494385.html)
 
-### Did You Know? Exhorter Drives For Hope. Depression And Parkinson Disease.
+### Did You Know? Exhorter Drives With Hope. Depression And Parkinson Disease.
 
  Joining this journey, let us keep a reminder that as long as our ideas bring positive effects to the world, our deepest aspirations are the things that we should hold if we want to hold personally ourselves in the end. Exhorter strategy focuses on that vision with hope. That hope enables it to try to find different ways of attempting to get closer to the destination. People who give up on what drives them to the core, that is, they don't "do" what they "think" deep within their heart, then whatever they substitute to may not be enough, leading them to chronic depression. Research shows that how we operate our mindset can take control over our body in negative ways, such as mental diseases like Parkinson's Disease.
 
