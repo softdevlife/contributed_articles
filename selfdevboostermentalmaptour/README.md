@@ -50,4 +50,4 @@ I have to thank the Internet for stumbling me one day on the pages of Lorin and 
 9. [Feedback and Our Obsessions](https://github.com/softdevlife/contributed_articles/blob/master/selfdevboostermentalmaptour/week9.md)<br> 
 10. [A philosophical framework: An introduction to cognitive styles](https://github.com/softdevlife/contributed_articles/blob/master/selfdevboostermentalmaptour/week_10.md)<br> 
 11. [A theological framework: Setting our minds not for short term success, but for the ideal](https://github.com/softdevlife/contributed_articles/blob/master/selfdevboostermentalmaptour/week_11.md)<br>
-12. Other important readings 
+12. [Other important readings](https://softwaredeveloperlife.blogspot.com/2016/07/short-snapshot-9-from-nothing-to-driven.html)
