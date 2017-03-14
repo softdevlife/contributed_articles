@@ -24,15 +24,30 @@ I have to thank the Internet for stumbling me one day on the pages of Lorin and 
 
 ![16587254_10154546098627054_8045959637589113161_o](https://cloud.githubusercontent.com/assets/12673581/23883636/57a2950e-08a3-11e7-8bc0-e0346de4187f.jpg)
 
-These are the books that are analyzed within this tour:<br>
+**These are the books that are analyzed within this tour:**<br>
 
-1. Smarter, Faster, Better by Charles Duhigg<br>
-2. Executive Paradox by David G. Jensen<br>
-3. The Female Brain by Louann Brizendine<br>
-4. Clean Language by Judy Rees<br>
-5. Feedback Revolution by Peter McLaughlin<br>
-6. All Sorts of People: Ordered Complexity by Lane Friesen<br>
-7. Natural Cognitive Theology by Lorin Friesen<br>
-8. Black Box Thinking by Matthew Syed<br>
-9. Stopping the noise in your head by Dr. Reid Wilson<br>
-10. The Power of Habit by Charles Duhhig
+1. [Smarter, Faster, Better by Charles Duhigg](https://www.amazon.com/Smarter-Faster-Better-Productive-Business/dp/081299339X)<br>
+2. [Executive Paradox by David G. Jensen](https://www.amazon.com/Executives-Paradox-David-Jensen-ebook/dp/B00HSCHTOS)<br>
+3. [The Female Brain by Louann Brizendine](https://www.amazon.com/Female-Brain-Louann-Brizendine-ebook/dp/B000URWYT8)<br>
+4. [Clean Language by Judy Rees](https://www.amazon.com/Clean-Language-Revealing-metaphors-opening-ebook/dp/B008CPIWIC)<br>
+5. [Feedback Revolution by Peter McLaughlin](https://www.amazon.com/Feedback-Revolution-Conversations-EFFECTIVE-FEEDBACK/dp/0615890881/)<br>
+6. [All Sorts of People: Ordered Complexity by Lane Friesen](https://www.amazon.com/All-Sorts-People-Ordered-Complexity/dp/1412089417)<br>
+7. [Natural Cognitive Theology by Lorin Friesen](https://www.amazon.com/Natural-Cognitive-Theology-Andrew-Friesen/dp/0987978519)<br>
+8. [Black Box Thinking by Matthew Syed](https://www.amazon.com/Black-Box-Thinking-People-Mistakes-But/dp/1591848229/)<br>
+9. [Stopping the noise in your head by Dr. Reid Wilson](https://www.amazon.com/Stopping-Noise-Your-Head-Wilson/dp/0757319068)<br>
+10. [The Power of Habit by Charles Duhhig](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X)
+
+**INDEX**
+
+1. [The Challenges Of Being Empowering](https://github.com/softdevlife/contributed_articles/blob/master/selfdevboostermentalmaptour/week1.md)<br> 
+2. [Empowering Trait: Psychological Safety in Teams](https://github.com/softdevlife/contributed_articles/blob/master/selfdevboostermentalmaptour/week2.md)<br>
+3. [Executive Paradox and Mental Symmetry Diagram](https://github.com/softdevlife/contributed_articles/blob/master/selfdevboostermentalmaptour/week3.md)<br>
+4. [Meeting Tasks in Executive Paradox](https://github.com/softdevlife/contributed_articles/blob/master/selfdevboostermentalmaptour/week4.md)<br>
+5. [Demystifying the gender gap](https://github.com/softdevlife/contributed_articles/blob/master/selfdevboostermentalmaptour/week5.md)<br>
+6. [Channels of communication: Writing](https://github.com/softdevlife/contributed_articles/blob/master/selfdevboostermentalmaptour/week6.md)<br> 
+7. [Introduction to Mental Networks & Neural Networks](https://github.com/softdevlife/contributed_articles/blob/master/selfdevboostermentalmaptour/week7.md)<br>
+8. [Tools For Creating Model In Our Minds](https://github.com/softdevlife/contributed_articles/blob/master/selfdevboostermentalmaptour/week8.md)<br> 
+9. [Feedback and Our Obsessions](https://github.com/softdevlife/contributed_articles/blob/master/selfdevboostermentalmaptour/week9.md)<br> 
+10. [A philosophical framework: An introduction to cognitive styles](https://github.com/softdevlife/contributed_articles/blob/master/selfdevboostermentalmaptour/week_10.md)<br> 
+11. [A theological framework: Setting our minds not for short term success, but for the ideal](https://github.com/softdevlife/contributed_articles/blob/master/selfdevboostermentalmaptour/week_11.md)<br>
+12. Other important readings 
