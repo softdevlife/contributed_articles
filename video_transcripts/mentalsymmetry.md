@@ -1,4 +1,4 @@
-**Video transcript of:** https://www.youtube.com/watch?v=MkU7CJQ78
+**Video transcript of:** https://www.youtube.com/watch?v=d-MkU7CJQ78
 
 **In reference to article:** https://softwaredeveloperlife.blogspot.com/2016/06/nautral-cognitive-theology-by-lorin.html
 
