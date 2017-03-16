@@ -1,6 +1,6 @@
-##A philosophical framework: An introduction to cognitive styles
+## A philosophical framework: An introduction to cognitive styles
 
-###What This Tour Is Aiming At
+### What This Tour Is Aiming At
 
 ![factory](https://cloud.githubusercontent.com/assets/12673581/22599329/7bc76676-ea71-11e6-8c77-6c89649136e2.jpg)
 
@@ -30,11 +30,11 @@ We talked a lot about Immanuel Kant's categorical imperative. Take a read on his
 
 [![sapereaude](https://cloud.githubusercontent.com/assets/12673581/22599800/05400f6a-ea73-11e6-86e7-3c5a00de73a2.png)](https://philosophynow.org/issues/49/Sapere_Aude)
 
-##Striving To Buckle Up
+## Striving To Buckle Up
 
-###The First Inch Of Our Journey
+### The First Inch Of Our Journey
 
-####Practical Contributor Thought Before, Now, After
+#### Practical Contributor Thought Before, Now, After
 
 On the first weekend module of our tour, we started our discussion on Practical Contributor thought that focuses on the PEOPLE line. As we will see later, Contributor is one of the seven cognitive styles. The book Executive Paradox talks about the Executive, the Contributor, in general. because this is a composite cognitive style and one of the most critical ones for transforming our identity, we look the Contributor in two parts:
 
@@ -63,7 +63,7 @@ Contributor uses Intellectual and Practical Contributor Thought.
 
 [![idealcriticalthinkingbrieflyexplained](https://cloud.githubusercontent.com/assets/12673581/22600171/572d2910-ea74-11e6-8d03-0f1f412bfe1f.png)](https://softwaredeveloperlife.blogspot.com/2014/04/ideal-critical-thinking-briefly.html?platform=hootsuite)
 
-###The Second Inch: The different ways of strapping it in
+### The Second Inch: The different ways of strapping it in
 
 Before moving our first inch, we didn't know how to define ethics. There are people that define ethics as evolutionary where the abstractions cannot be defined. It is very funny if that was applied to the scientific method literally. We would then go and discard a formula that gives us 99% accuracy because events cannot be defined by a general formula, a general abstraction. On the other hand, there are people who think certain principles should be optional, violating Immanuel Kant categorical imperative. An institution may still hold to its ground even if some people mess it up, but if everybody messes it up, it won't be able to keep up, ultimately begging down to its own knees. Lastly, there are people who think ethics as following certain examples. Maybe those examples worked in a certain situation, certain use case. But a person will not follow ethics to the fullest without knowing how to "generate" good will examples. Not any person can master that skill first without knowing a general way of following a good will. And this tour tries to aim at describing as much as we have so far "discovered" (like a scientist would say also) this universal principle. We didn't describe in detail and explicitly the process, but as we have gone through a series of weekly modules within our tour, you would have intuitively received a partial illustration implicitly of what it would look like. Apparently, this will not be a mystery recipe, yet not one that we can easily digest, as personal growth always starts with a sour taste after all. For this weekly module, we will be expressing in more solid form the mechanisms behind those seven cognitive styles in a philosophical perspective. In our next weekly module, we will tie them all together through a theological perspective.
 
@@ -82,7 +82,7 @@ It is hard to keep up how all those seven cognitive styles behave: what they hav
 
 [![obstaclesofidealcriticalthinking](https://cloud.githubusercontent.com/assets/12673581/22600414/58c7ec50-ea75-11e6-9f40-d7b413e38fb0.png)](https://softwaredeveloperlife.blogspot.com/2014/08/obstacles-of-ideal-critical-thinking.html)
 
-###Finding the connectors to bundle up and tightening the grip for a smooth ride
+### Finding the connectors to bundle up and tightening the grip for a smooth ride
 
 We discussed previously the different ways of strapping it in and conclusively found in the end that there is only one effective way to strap it in: The "All-Star Contributor". It has the perfect combination of both looking things abstractly and concretely at the same time. Take note of the words abstract (Intellectual Contributor) and concrete (Practical Contributor) carefully. We will have some more terminology that we have to go along the way. One of the things a Contributor dislikes is uncertainty with high risks. It wants to have control of the situation, to not let those dreams go astray the next day he wakes up. Briefly, there are two uncertainties:
 
@@ -113,13 +113,13 @@ Alright! We are all set! Let us wrap this up by looking the interplay of Emotion
 
 [![emotionsandconfidence](https://cloud.githubusercontent.com/assets/12673581/22600595/2ade03dc-ea76-11e6-84ba-d3f498f1b8fe.png)](https://softwaredeveloperlife.blogspot.com/2014/08/the-interplay-of-emotions-and.html)
 
-####Exhorter Strategy: How Innovation Works
+#### Exhorter Strategy: How Innovation Works
 
 Without a prototype that is not very detailed by an Exhorter strategy, we cannot ever progress our journey of our ultimate destination. Dyson, the dual-cyclone vacuum cleaner came to fruition not by the Technical thought of his existing previous workplace rejecting his idea, but by his own courage and effort, by writing up more than five thousand prototypes before achieving on making the perfect vacuum cleaner. [Take a read](https://www.linkedin.com/pulse/please-more-brainstorm-sessions-how-innovation-really-matthew-syed)
 
 [![thisishowinnovationworks](https://cloud.githubusercontent.com/assets/12673581/22600754/e9a2e788-ea76-11e6-85fa-196a6e3b6567.png)](https://www.linkedin.com/pulse/please-more-brainstorm-sessions-how-innovation-really-matthew-syed)
 
-###An Introduction To Cognitive Styles
+### An Introduction To Cognitive Styles
 
 ![mentalsymmetry](https://cloud.githubusercontent.com/assets/12673581/22601357/76bb8a2e-ea79-11e6-8322-d9c84cd7275f.jpg)
 
@@ -177,7 +177,7 @@ For more information about the cognitive styles, I really strongly recommend rea
 
 And we are done for this weekend module. But if you haven't noticed, our plane cannot keep up with the turbulence because our body is not ready yet to what is ahead of us. We need to take a recap study on what theology is all about before we can use these tools at great lengths. We have to take a parachute after all and land to that big island where the chocolate factory resides. Don't worry, this will not take too long as much as how long it took us before jamming those seat belts until we snapped them in. We just need to wrap just one more aftermath post as we wind down in the whirlpool of thousand feet of air bellow where it resides our next weekly module: normal pain vs hyper pain.
 
-###Aftermath: Normal Pain Vs. Hyper Pain
+### Aftermath: Normal Pain Vs. Hyper Pain
 
 In Week 7, we discussed Teacher Mental Networks and Mercy Mental Networks. Mental networks expect a general consistent input. If the input is not satisfactory or not met in regular intervals, normal pain interrupts the brain as a signal. However, it is usually the withdrawal symptoms, the interval period where our mental networks are in the last stages of breaking apart, that become the most painful to bear with. We call that pain as hyper pain. If we want to move from a set of actions that are different than the set of actions we currently do, there will eventually be a hyper pain of leaving our current set of actions not only for ourselves but as well affecting any dependencies those set of actions have relied upon other people. One of the main topics in our next weekly module is about transforming our self. That requires replacing existing mental networks with better ones. That requires having the courage to deal with hyper pain. The simplest use case in dealing the process of hyper pain is when we see someone dear that has passed away. The person who passes away does not exist anymore physically in the world, so there is no way to comfort the mental networks on any consistent input that this person exists in some way where we can talk to him. Eventually, the individual is able to cope with the hyper pain. This event has been analyzed enough that we have a process called the 5 stages of grief. Take a read in one of my first drafts explaining the different pains a person encounters, including the mental networks which we discussed just now. [Take a read](https://softwaredeveloperlife.blogspot.com/2014/08/types-of-pain-part-1.html)
 
