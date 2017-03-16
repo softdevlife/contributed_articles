@@ -1,4 +1,4 @@
-###Celebrating Three Year Anniversary Blog [softwaredeveloperlife](https://softwaredeveloperlife.blogspot.com/) 
+### Celebrating Three Year Anniversary Blog [softwaredeveloperlife](https://softwaredeveloperlife.blogspot.com/) 
 The blog [softwaredeveloperlife](https://softwaredeveloperlife.blogspot.com/) is celebrating its 3 year anniversary. [The blog started all out of a dream](https://softwaredeveloperlife.blogspot.com/2014/02/a-nothing-person-thursday-person-friday.html). Personal draft papers were held. Each paper had its own story. Stories that were not cultivated, not spread, not in books or having a glimpse into our concrete world. These are fragile papers that can be torn apart from existing stronger obsessions manifesting within our society:
 
 >**\<While standing\>**<br>
