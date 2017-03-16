@@ -1,4 +1,4 @@
-##Introduction To Theology
+## Introduction To Theology
 
 ![scientificmethod](https://cloud.githubusercontent.com/assets/12673581/23884154/0d264982-08a6-11e7-92a8-20de84548d3f.jpg)
 
@@ -67,7 +67,7 @@ There are several reasons why I motivate people to take another glance at what t
 
 Although I have set my mind straight like a fist of iron that we have to renew our mind, I am not going to overlook intermediate steps that can help us reaching more closer to that ultimate goal. My insane mission of "Making the human reborn by renewing its own mind" is insane as Elon Musk mission on "Colonizing Mars". However, I will still be happy for my rest of my life if I venture on something that gets us more prepared or closer to becoming better models in our society. Similarly, Elon Musk SpaceX program focuses on making the space industry more affordable and efficient, giving more space for the colonization of Mars to become more reachable. So although I am loyal to my words, I will always do what is reasonable and logical to our current situation instead of dreaming and watching grass grow. However, my other goal is to spread the "message" of developing our own self for the ideal. That is the main reason I created this tour #selfdevboostermentalmaptour. I got so much helpful information and motivation to learn more about personal development after reading and understanding the theory of Mental symmetry. I felt accountable for receiving such fortune that it felt a natural deed to pass it out to others as well. I want to pass out that armor so you can as well bravely be able to cross on that journey. Metaphorically speaking, inheriting a fortune is great. But how much exponentially that fortune grows when you can pass that fortune through others? At that point, that fortune does not transform only you, it transforms the whole world. This is what this tour aims. So now that we are ready to take a dive on theology for theology sake from the perspective on transforming our self, let us check the differences between a childish mindset and an adult mindset by looking at the findings of Piaget childhood development.
 
-##Welcome To The Factory
+## Welcome To The Factory
 
 Welcome to the factory kids! Our motto in here is to be "reborn again". Let me tell you, I don't trust most current institutions telling us that they believe our slogan. After all, they got encompassed with sadness, fear, and over-protectiveness from the past commitments that touched the personal realm in destructive ways. I also admit that those past mindsets brought destructive consequences, making it completely sense to have doubts, as not all solutions can get us on the correct path.
 
