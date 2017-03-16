@@ -1,5 +1,5 @@
 # contributed_articles
-A centralized place of all articles I contributed outside of my [personal blog](softwaredeveloperlife.blogspot.com) can be found here
+A centralized place of all articles I contributed outside of my [personal blog](https://softwaredeveloperlife.blogspot.com/) can be found here
 
 Contents categorized by **folder**:
 - **faqs**: General questions answered from the following sources: website portals, email, private messages
