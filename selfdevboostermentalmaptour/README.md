@@ -1,3 +1,5 @@
+![selfdevmentalmaptour](https://cloud.githubusercontent.com/assets/12673581/24079076/89e210a6-0cba-11e7-9840-faf52062c072.jpg)
+
 ## Welcome To The Grand Tour About Yourself
 
 The blog [softwaredeveloperlife](https://softwaredeveloperlife.blogspot.com/) is celebrating its three year anniversary. The blog started [all out of a dream](https://softwaredeveloperlife.blogspot.com/2014/02/a-nothing-person-thursday-person-friday.html). Personal draft papers were held. Each paper had its own story. Stories that were not cultivated, not spread, not in books or having a glimpse into our concrete world. These are fragile papers that can be torn apart from existing stronger obsessions manifesting within our society:
