@@ -97,15 +97,15 @@
 ## TIMELINE
 #### 09/00 – 06/06
 *41st High School of Athens, Greece*<br>
-**High School Diploma**<br>
+**High School Diploma**<br><br>
 ![highschool](https://cloud.githubusercontent.com/assets/12673581/24372129/293f7d26-1357-11e7-965c-6bafac72bb28.jpg)
 
 #### 01/07 - 12/08
 *San Diego City College*<br>
-**Computer Information Systems**<br>
+**Computer Information Systems**<br><br>
 ![sdcc](https://cloud.githubusercontent.com/assets/12673581/24372273/a417024e-1357-11e7-9902-79a1af89f6a2.jpg)
 
 #### 01/ 09 - 12/11
 *California State Polytechnic University, Pomona*<br>
-**Computer Information Systems**<br>
+**Computer Information Systems**<br><br>
 ![675px-cla_building](https://cloud.githubusercontent.com/assets/12673581/24372352/e5db3f4c-1357-11e7-97ae-5d199620d02a.jpg)
