@@ -1,0 +1,27 @@
+# Elon Musk
+### The man who launched reusable rockets to space and brought the first electric car that accelerates to 60 mph in 2.5 seconds
+
+![CRS11](https://c1.staticflickr.com/5/4250/35043398436_52ced74f9a_k.jpg)
+__June 2017: Mission CRS-11 was the 11th flight out of the 12 within $1.6 billion NASA 2008 contract deal with SpaceX. The reusable spacecraft that holds the cargo in this mission was bootstrapped with a Falcon 9 launch rocket.__
+
+Unless you lived under a rock or forgot the last time you used the words innovation, economy, and technology in your vocabulary, it would be impossible you would not know who is Elon Musk in the first place.
+<br><br>Elon Musk is well known for raising the bar so high that it sounds so hype, yet promising for becoming achievable with his long-standing persistence. Although Elon Musk sharp mind and constant persistence paid off over the years in bringing innovations, such as electric self-driving cars and reusable rockets, what stands out about him is how he handled his dreams to not fade out by not letting others be an influence around them:
+
+* __1971__ - Born in Pretoria, South Africa
+* __1979__ - Shown an interest in books that he even read the entire _Britannica Encyclopedia_. In contrast with other kids that react to their personal experiences with overgeneralizations, he wanted to learn how things work in the world. Although those are early signs of the potential of a kid becoming a great scientist or businessman, it also shows a strong sign of being unfit to the rest of the kids, resulting to being bullied at school.
+* __1983__ - Wrote a space invaders video game called __Blastar__ and sold it for $500. For that time, not only entrepreneurship was shown in here, but the design of the video game had a lot of elements of science fiction in it. Great game design shows great imagination within. What Elon Musk still to this day does is not limiting or conforming his imagination to our present constraints, which is shown to this days with his latest innovations.
+* __1995__ - Elon Musk co-founded __Zip2__, a service that provided an online presence to local businesses. Worked really hard on having control of the business by staying most of the time all day in the office. Unfortunately, that is not a foolproof way of having control of stuff. Even as a co-founder, Elon Musk was kicked out and got $22 million from the sale of the company.
+* __1999__ - He starts a digital payment online service called __X.com__ (later named as __Paypal__). This time he did more steps on taking control as a founder: He invested almost all of his money that he got from Zip2. Took huge risks for the sake of being in control and accountable. Although the company was a huge success, he got kicked out from the CEO of Paypal due to his ruthless control. Fortunately, he earned a lot of money from his initial and ongoing investments to Paypal.
+* __2002__ - He starts his own startup that nobody would ever dare other than himself. One of his dreams was for people being environmentally friendly to our planet and to colonize another planet in case Earth becomes inhabitable. With rockets being expensive, he planned to build the rockets himself in his new startup called __SpaceX__. Not only was Musk the owner of SpaceX, but also designed the main turf for how the rockets are going to be built, both physically and culturally, in a big warehouse lot of Los Angeles. Now he is in complete control. It was a huge success. But only with persistence: Only after 6 years (_2008_) they launched their first rocket successfully and only after 13 years (_2015_) where they able to launch a reusable rocket to orbit.
+* __2004__ - Invested and took over __Tesla__. After a lot of hiccups back and forth, it was able to bring the company forth by reducing the material costs and releasing the first electric car within 5 years (_2009_): The __Tesla Model S__ - which accelerates from 0 to 60 mph in as little as 2.5 seconds.
+
+![TESLAMODELS](https://upload.wikimedia.org/wikipedia/commons/f/f5/Tesla_Model_S_%28108%29_%28cropped%29.JPG)
+__October 2009: Tesla Model S Prototype is shown at the 2009 Frankfurt Motor Show__
+
+What Elon Musk stands out is not his persistence and great mind where anybody can clone of, but how he handled the influences of others for making his dreams to become partially true. After many trials and errors, he figured out how to be able to have more footprint control of his own ideas.
+<br><br>Another interesting thing to note is that Elon Musk is a pragmatist. He understands that there is a lot of steps that need to be done before we ever achieve on making our planet enviromentally friendly, as well for the human race being able to colonize other planets. He tries to achieve as much as he can during his lifetime for the big dream that he has, hoping others will follow and contribute to his legacy.
+<br><br>We may not share the same ideas as Elon Musk, but Elon Musk gives us a template on how to achieve any of our dreams. To not let us be conformed and succumbed to the influences of our current world, but to strive to what is ideal and good while always planning ahead in order to have control over the unexpected.
+
+> "It's OK to have your eggs in one basket as long as you control what happens to that basket." (Elon Musk)
+
+If you have time, you should read more about our greatest innovator of our current time on his [Wikipedia entry](https://en.wikipedia.org/wiki/Elon_Musk).
