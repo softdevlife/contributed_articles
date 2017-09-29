@@ -27,7 +27,7 @@ That is why at this moment we use productivity tools to the above bottlenecks, s
 
 At the general level, it all boils to one basic element: **Passion**.
 
-You definitely need to have a purpose for completing a project. Sometimes a project's purpose can start with a lousy start. In the end, those project's architecture will get what they actually deserve which you can play a part of it.
+You definitely need to have a purpose for completing a project. Sometimes a project can start with a lousy purpose. In the end, those project's architecture will get what they actually deserve which you can play a part of it.
 
 Take for instance:
 
