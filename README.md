@@ -10,6 +10,7 @@ Content categorized by **folder**:
 - **[comments](https://github.com/softdevlife/contributed_articles/tree/master/comments)**: My comments on articles that discuss important topics
 - **[ebook_blog](https://github.com/softdevlife/contributed_articles/tree/master/ebook_blog)**: Archive of my [blog](https://softwaredeveloperlife.blogspot.com/) in PDF format
 - **[education](https://github.com/softdevlife/contributed_articles/tree/master/education)**: My education background
+- **[movies](https://github.com/softdevlife/contributed_articles/tree/master/movies)**: Contains my own summary personal reviews of any movies I have read
 - **[notes](https://github.com/softdevlife/contributed_articles/tree/master/notes)**: Guidelines and tips derived from insights 
 - **[selfdevboostermentalmaptour](https://github.com/softdevlife/contributed_articles/tree/master/selfdevboostermentalmaptour)**: Portfolio of personal development based on Philosophy, Psychology & Theology
 - **[video_transcripts](https://github.com/softdevlife/contributed_articles/tree/master/video_transcripts)**: Transcripts from recorded videos
