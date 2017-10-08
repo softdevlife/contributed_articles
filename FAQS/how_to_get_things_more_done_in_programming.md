@@ -1,6 +1,6 @@
 ![sp](https://user-images.githubusercontent.com/12673581/31001557-f9f4241e-a50e-11e7-8286-b7b44149cd41.jpg)
 
-In the image above, you see a developer (one that builds the product) and a stakeholder (one that observes whether the product is a good fit).
+In the image **[1]** above, you see a developer (one that builds the product) and a stakeholder (one that observes whether the product is a good fit).
 
 What is so striking to this image is not the occurrence, but how long that occurrence lasts.
 
@@ -33,7 +33,7 @@ Take for instance:
 
 * Nuclear Bombs vs. Nuclear Energy
 * Graphics Cards Used For Video Games vs. Graphics Cards Used For Machine Learning
-* How mobile hit games [Game Of War](https://en.wikipedia.org/wiki/Game_of_War:_Fire_Age) and [Mobile Strike](https://en.wikipedia.org/wiki/Mobile_Strike) was used as a proof of concept to enable [smart city](https://en.wikipedia.org/wiki/Smart_city) solutions **[1]**
+* How mobile hit games [Game Of War](https://en.wikipedia.org/wiki/Game_of_War:_Fire_Age) and [Mobile Strike](https://en.wikipedia.org/wiki/Mobile_Strike) was used as a proof of concept to enable [smart city](https://en.wikipedia.org/wiki/Smart_city) solutions **[2]**
 
 At the detail level, three components matter. These are:
 
@@ -42,4 +42,5 @@ At the detail level, three components matter. These are:
 * **Technical Domain**: This is important as speaking a language. If you cannot speak the language of your craft, you cannot build anything. Sure, anybody can definitely build something by copying and pasting something from the internet. However, the more you know about the language of your craft, the more creative, original, and robust will be the solutions that you provide.
 
 Footnotes<br>
-**[1]** [Satori Beta](https://www.satori.com)
+**[1]** [Startup Stock Photos | Free Tech Stock Photos](http://startupstockphotos.com/post/123128014991/at-barrel-soho-nyc)<br>
+**[2]** [Satori Beta](https://www.satori.com)
