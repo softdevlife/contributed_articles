@@ -14,5 +14,8 @@ In those occasions, you have to **slow down enough** that you do not crash and g
 
 All this driving is pointless if people do not have an internal purpose for reaching to the destination. To have a purpose on our journey, we incorporate a story within our requirements. **We must really care of our adventure amid all the obstacles we will encounter ahead of our road.** So make sure the back of your car has something valuable that you want to deliver. Otherwise, you will just stop in the middle when things become difficult.
 
+[![areyouridingtheroad](https://user-images.githubusercontent.com/12673581/31587520-c411394a-b215-11e7-8a90-0191a5d496b4.png)
+](https://youtu.be/2V0MqViNQEs)
+
 Footnotes<br>
 **[1]** [Cheers For The Years photo by Felix Russell-Saw (@frsphoto) on Unsplash](https://unsplash.com/photos/XyoW1MhPqbs)
