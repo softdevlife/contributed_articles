@@ -63,3 +63,4 @@ The old philosopher Socrates makes a good argument about his wife as a topic of 
 
 [![socrateswisdom](https://cloud.githubusercontent.com/assets/12673581/18255731/0ba2d078-73df-11e6-8882-8c48e612c93c.png)](https://softwaredeveloperlife.blogspot.sg/2014/11/personal-selfie-1-my-current-girlfriend.html)
 
+**Menu**<br> [\[ << Week 4 \]](https://github.com/softdevlife/contributed_articles/blob/master/selfdevboostermentalmaptour/week4.md) [\[ Index \]](https://github.com/softdevlife/contributed_articles/blob/master/selfdevboostermentalmaptour/README.md) [\[ Week 6 >> \]](https://github.com/softdevlife/contributed_articles/blob/master/selfdevboostermentalmaptour/week6.md)
