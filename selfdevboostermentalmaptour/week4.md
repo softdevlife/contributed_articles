@@ -54,3 +54,4 @@ My review of the book: https://www.goodreads.com/review/show/1293441655
 
 [![executiveparadoxreview](https://cloud.githubusercontent.com/assets/12673581/18192953/5aa15ec8-710b-11e6-905f-88a61ed09fb2.png)](https://www.goodreads.com/review/show/1293441655)
 
+**Menu**<br> [\[ << Week 3 \]](https://github.com/softdevlife/contributed_articles/blob/master/selfdevboostermentalmaptour/week3.md) [\[ Index \]](https://github.com/softdevlife/contributed_articles/blob/master/selfdevboostermentalmaptour/README.md) [\[ Week 5 >> \]](https://github.com/softdevlife/contributed_articles/blob/master/selfdevboostermentalmaptour/week5.md)
