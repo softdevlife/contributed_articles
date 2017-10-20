@@ -7,3 +7,5 @@ The above quote resonates personally to me as well. In my 2011 class *ADVANCED J
 For problems that are not very complicated in nature, being **empowering** alone works very well. However, there are many situations that people abuse the power to empower others in order to cover up real detrimental problems within organizations. As in the book *Black Box Thinking by Matthew Syed* discuss, the norms of the hospital on how they reacted to mistakes lead for hospital mistakes to be one of the top 3 causes of people's death.
 
 [![synergy](https://cloud.githubusercontent.com/assets/12673581/17838210/16a09c26-67fa-11e6-8cc8-8a93b7c32ce4.png)](http://ow.ly/SltH303cFTv)
+
+**Menu**<br> [\[ << Week 1 \]](https://github.com/softdevlife/contributed_articles/blob/master/selfdevboostermentalmaptour/week1.md) [\[ Index \]](https://github.com/softdevlife/contributed_articles/blob/master/selfdevboostermentalmaptour/README.md) [\[ Week 3 >> \]](https://github.com/softdevlife/contributed_articles/blob/master/selfdevboostermentalmaptour/week3.md)
