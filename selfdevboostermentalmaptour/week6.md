@@ -48,3 +48,5 @@ I really recommend for people to watch the movie **Sully**. It is a great watch 
 Take a watch: https://youtu.be/0FvULPbQ71w
 
 [![sully](https://cloud.githubusercontent.com/assets/12673581/18410103/11beb2d8-778b-11e6-8c8e-725eb2783b55.png)](https://youtu.be/0FvULPbQ71w)
+
+**Menu**<br> [\[ << Week 5 \]](https://github.com/softdevlife/contributed_articles/blob/master/selfdevboostermentalmaptour/week5.md) [\[ Index \]](https://github.com/softdevlife/contributed_articles/blob/master/selfdevboostermentalmaptour/README.md) [\[ Week 7 >> \]](https://github.com/softdevlife/contributed_articles/blob/master/selfdevboostermentalmaptour/week7.md)
