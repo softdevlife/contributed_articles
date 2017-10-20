@@ -15,3 +15,4 @@ The thesis of the definition **empowering** in today's society has been analyzed
 
 [![empowering](https://cloud.githubusercontent.com/assets/12673581/17838092/1bf83aa6-67f7-11e6-8d2b-b611bae253b2.png)](http://ow.ly/ehT6303c0kz)
 
+**Menu**<br> [\[ Index \]](https://github.com/softdevlife/contributed_articles/blob/master/selfdevboostermentalmaptour/README.md) [\[ Week 2 >> \]](https://github.com/softdevlife/contributed_articles/blob/master/selfdevboostermentalmaptour/week2.md)
