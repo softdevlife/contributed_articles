@@ -29,3 +29,5 @@ If you want to know more about uncovering the hidden layer of language, take a r
 
 ## Next Week Module
 We will use this material on our next week module to discuss the three types of learning that I learned as a **Math Tutor In San Diego City College** (also well documented in Cognitive Science): Visual, Auditory, and Kinesthetic.
+
+**Menu**<br> [\[ << Week 6 \]](https://github.com/softdevlife/contributed_articles/blob/master/selfdevboostermentalmaptour/week6.md) [\[ Index \]](https://github.com/softdevlife/contributed_articles/blob/master/selfdevboostermentalmaptour/README.md) [\[ Week 8 >> \]](https://github.com/softdevlife/contributed_articles/blob/master/selfdevboostermentalmaptour/week8.md)
