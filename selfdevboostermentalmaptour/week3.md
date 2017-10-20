@@ -35,3 +35,5 @@ We already discussed how to balance **People** by being **Empowering** from *I.M
 Take a watch: https://www.youtube.com/watch?v=TZaL3fLSJnY
 
 [![videoexecutiveparadoxandmentalsymmetry](https://cloud.githubusercontent.com/assets/12673581/17993160/0482391c-6b80-11e6-8973-1fe5aa279058.png)](https://www.youtube.com/watch?v=TZaL3fLSJnY)
+
+**Menu**<br> [\[ << Week 2 \]](https://github.com/softdevlife/contributed_articles/blob/master/selfdevboostermentalmaptour/week2.md) [\[ Index \]](https://github.com/softdevlife/contributed_articles/blob/master/selfdevboostermentalmaptour/README.md) [\[ Week 4 >> \]](https://github.com/softdevlife/contributed_articles/blob/master/selfdevboostermentalmaptour/week4.md)
