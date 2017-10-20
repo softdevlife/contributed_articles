@@ -209,6 +209,7 @@ Meet the case of John's sister, a mature student that gained an advanced degree 
 
 [![exhorterstrategy](https://cloud.githubusercontent.com/assets/12673581/22602323/b41e00fa-ea7d-11e6-8beb-def0fdf6ef5f.png)](http://www.youtube.com/watch?v=qngfpBRqwDY)
 
+**Menu**<br> [\[ << Week 9 \]](https://github.com/softdevlife/contributed_articles/blob/master/selfdevboostermentalmaptour/week9.md) [\[ Index \]](https://github.com/softdevlife/contributed_articles/blob/master/selfdevboostermentalmaptour/README.md) [\[ Week 11 >> \]](https://github.com/softdevlife/contributed_articles/blob/master/selfdevboostermentalmaptour/week_11.md)
 
 
 
