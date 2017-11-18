@@ -24,4 +24,8 @@
 
 [![recap](https://user-images.githubusercontent.com/12673581/31826208-043180f0-b5e7-11e7-8806-edea0ba1333f.png)](https://twitter.com/i/moments/847426838980812800)
 
+## Updates
+
+For the latest updates about this course, visit our Facebook page [Improving Your Personal Mental Map](https://www.facebook.com/selfdevmentalmap/)
+
 **Menu**<br> [\[ << Week 11 \]](https://github.com/softdevlife/contributed_articles/blob/master/selfdevboostermentalmaptour/week_11.md) [\[ Index \]](https://github.com/softdevlife/contributed_articles/blob/master/selfdevboostermentalmaptour/README.md)
