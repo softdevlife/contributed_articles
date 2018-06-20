@@ -17,6 +17,9 @@ coin, leaving the other side entirely up to you. What others tell you to learn
 or you think you need to learn during your career is even more important than
 what you learned before you graduated.**
 
+![nde](https://user-images.githubusercontent.com/12673581/41649510-562e148c-74ae-11e8-8051-5374adb379d4.png)
+*Remember, like in every draft, you have to prove your own potential within your college days, boot camps, and interviews. But that is just the first step of the journey. The rest, you have to learn them as well within the time-frame of your career.*
+
 Taking courses related to your data career is very important and unlike my times
 that were not plenty of options available in my college years on specializing on
 some specific data skills, today there are a lot of college and universities
