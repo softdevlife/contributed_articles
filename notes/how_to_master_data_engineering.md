@@ -18,7 +18,7 @@ or you think you need to learn during your career is even more important than
 what you learned before you graduated.**
 
 ![nde](https://user-images.githubusercontent.com/12673581/41649510-562e148c-74ae-11e8-8051-5374adb379d4.png)
-*Remember, like in every draft, you have to prove your own potential within your college days, boot camps, and interviews. But that is just the first step of the journey. The rest, you have to learn them as well within the time-frame of your career.*
+<br>*Remember, like in every draft, you have to prove your own potential within your college days, boot camps, and interviews. But that is just the first step of the journey. The rest, you have to learn them as well within the time-frame of your career.*
 
 Taking courses related to your data career is very important and unlike my times
 that were not plenty of options available in my college years on specializing on
@@ -161,6 +161,9 @@ starter on learning skills that are guaranteed to be prevalent in the future.
 **Your job is how to sail the winds in the best way that avoids your ship in
 getting the most damage instead of getting to your destination in the fastest
 way possible.**
+
+![two_routes](https://user-images.githubusercontent.com/12673581/41672499-a745b94a-74ec-11e8-8a03-997758669255.png)
+<br>*Remember, it is better for your crew to wait a little bit longer for arriving at the treasure to avoid getting most of your shipwrecked.*
 
 When I first started my career, I was fortunate enough to have ample time on
 exploring ways I can navigate my best on getting the data that I need for my
@@ -672,7 +675,7 @@ business of your organization covers. It should be your elevator pitch.
 **Conclusion**
 
 ![thestatsofadataengineer](https://user-images.githubusercontent.com/12673581/41634977-cad74456-7478-11e8-8eda-873e2c84dd17.png)
-*Remember, think of Data Engineering like a soccer match. Not all are attackers, neither all are defenders, even star players on the midfield may not be proportionally all good on the different type of tasks that we have just described so far.*
+<br>*Remember, think of Data Engineering like a soccer match. Not all are attackers, neither all are defenders, even star players on the midfield may not be proportionally all good on the different type of tasks that we have just described so far.*
 
 If you have reached so far, you did well. Now you are ready to master all the
 basics of a data engineer. Getting the proper education at school and while at
