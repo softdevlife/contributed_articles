@@ -668,6 +668,9 @@ business of your organization covers. It should be your elevator pitch.
 
 **Conclusion**
 
+![thestatsofadataengineer](https://user-images.githubusercontent.com/12673581/41634977-cad74456-7478-11e8-8eda-873e2c84dd17.png)
+*Remember, think of Data Engineering like a soccer match. Not all are attackers, neither all are defenders, even star players on the midfield may not be proportionally all good on the different type of tasks that we have just described so far.*
+
 If you have reached so far, you did well. Now you are ready to master all the
 basics of a data engineer. Getting the proper education at school and while at
 work, doing proper data exploration, being good at your craft on creating
