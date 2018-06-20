@@ -163,7 +163,7 @@ getting the most damage instead of getting to your destination in the fastest
 way possible.**
 
 ![two_routes](https://user-images.githubusercontent.com/12673581/41672499-a745b94a-74ec-11e8-8a03-997758669255.png)
-<br>*Remember, it is better for your crew to wait a little bit longer for arriving at the treasure to avoid getting most of your shipwrecked.*
+<br>*Remember, it is better for your crew to wait a little bit longer for arriving at the treasure to avoid getting your boat shipwrecked.*
 
 When I first started my career, I was fortunate enough to have ample time on
 exploring ways I can navigate my best on getting the data that I need for my
