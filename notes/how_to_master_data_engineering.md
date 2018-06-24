@@ -1,7 +1,22 @@
-![pexels-photo-843085 1](https://user-images.githubusercontent.com/12673581/41522663-90a23ae0-7309-11e8-8484-8d9d2dcaf32f.jpeg)
 # How to master the basics of Data Engineering
 
-**Introduction**
+![](https://cdn-images-1.medium.com/max/800/0*7BqD_cUuOXgzVLs4.jpeg)
+
+#### CONTENTS
+
+1.  **INTRODUCTION**
+2.  **PREFACE: EDUCATION**
+3.  **CHAPTER 1: DATA EXPLORATION**
+4.  **CHAPTER 2: DATA PIPELINES**
+5.  **CHAPTER 3: MONITORING TOOLS**
+6.  **CHAPTER 4: PRODUCTIVITY TOOLS**
+7.  **CHAPTER 5: AUTOMATION & INNOVATION**
+8.  **CHAPTER 6: COMMUNICATION**
+9.  **CHAPTER 7: SKILLS**
+10.  **CHAPTER 8: MOTIVATION**
+11.  **CONCLUSION**
+
+### **INTRODUCTION**
 
 I have been very fortunate in working with data. The next week after I finished
 my last exams on my computer Information Systems degree that I received with
@@ -12,13 +27,18 @@ various data related tasks in most of the bulk of my time and I think I have
 gained enough wisdom to tell you the basics a data engineer has to go through
 along his journey. Let us start then.
 
+### PREFACE: EDUCATION
+
 **Education is important, but remember, each track teaches you one side of the
 coin, leaving the other side entirely up to you. What others tell you to learn
 or you think you need to learn during your career is even more important than
 what you learned before you graduated.**
 
-![nde](https://user-images.githubusercontent.com/12673581/41649510-562e148c-74ae-11e8-8051-5374adb379d4.png)
-<br>*Remember, like in every draft, you have to prove your own potential within your college days, boot camps, and interviews. But that is just the first step of the journey. The rest, you have to learn them as well within the time-frame of your career.*
+![](https://cdn-images-1.medium.com/max/800/1*uYUadzYrtzEhQVlrueimYA.png)
+<br>*Remember, like in every draft, you have to prove your own potential within your
+college days, boot camps, and interviews. But that is just the first step of the
+journey. The rest, you have to learn them as well within the time-frame of your
+career.*
 
 Taking courses related to your data career is very important and unlike my times
 that were not plenty of options available in my college years on specializing on
@@ -33,6 +53,8 @@ more opportunities in taking advantage of the available facilities provided
 currently on boosting your knowledge on anything you want to do related with
 data. Some things in the traditional education system have not changed much and
 you still have two generic approaches to acquire a data career.
+
+#### Practical Degrees
 
 The first approach is to get a computer information systems degree from a
 university like I did. The study of information systems has been there since the
@@ -69,6 +91,8 @@ efficient, as well make our existing services more convenient. What you can
 learn in a business course can now be learned by reading autobiographies of
 success stories of startups and companies that are trying to reinvent
 themselves.
+
+#### Theoretical Degrees
 
 The other approach to get a career in data is by getting a computer science
 degree. Although a computer science degree will not give you straight visibility
@@ -108,6 +132,14 @@ field. To me, that is the difference between a driver that drifts their car with
 the shifts in automatic mode and the driver that surpasses them with the shifts
 in manual mode. The former is just a professional while the latter is a real
 expert in his field.
+
+![](https://cdn-images-1.medium.com/max/800/1*hWKje8HcdQv9Rk9SX4Di7g.png)
+<br>*Although practical degrees can get you ahead of the curve, theoretical degrees
+provide foundations that come in handy when problems are more complicated or too
+big to manage. Do get your hands dirty, but also learn a tip or two from those
+who have mastered their craft.*
+
+#### On advice and self-assessment
 
 Whichever track you choose in your education, you will have to learn the other
 side of the coin on your own. This is critically important. I see many people to
@@ -158,12 +190,15 @@ feedback as kindred spirits. In other situations, this opportunity is not always
 available so you have to read the environment and be self-initiative and a
 starter on learning skills that are guaranteed to be prevalent in the future.
 
+### **CHAPTER 1: DATA EXPLORATION**
+
 **Your job is how to sail the winds in the best way that avoids your ship in
 getting the most damage instead of getting to your destination in the fastest
 way possible.**
 
-![two_routes](https://user-images.githubusercontent.com/12673581/41672499-a745b94a-74ec-11e8-8a03-997758669255.png)
-<br>*Remember, it is better for your crew to wait a little bit longer for arriving at the treasure to avoid getting your boat shipwrecked.*
+![](https://cdn-images-1.medium.com/max/800/1*EjuNM1fb4S5Vqet71aSK5w.png)
+<br>*Remember, it is better for your crew to wait a little bit longer for arriving at
+the treasure to avoid getting your boat shipwrecked.*
 
 When I first started my career, I was fortunate enough to have ample time on
 exploring ways I can navigate my best on getting the data that I need for my
@@ -189,24 +224,29 @@ don’t know how to get past the tides properly, they won’t last for long and 
 is the last thing a captain will want to do for his crew. The basics of data
 exploration a data engineer should know are:
 
-* To know the order of execution of all the basic keywords of a query and how to
-use them properly (SELECT, FROM, WHERE, GROUP BY, HAVING)
-* The ability to understand the data types of each column, how to manipulate
-strings, the ability to use conditional statements and how to aggregate data by
-picking the max, min, sum, average, median and so on.
-* The ability to know what the most proper joins against several tables, that
-includes left join, right join, inner join, full outer join, union, union all.
-* The ability to understand what NULL represents in a column and the corresponding
-Boolean logic (true or false) when evaluating against null values.
-* Understanding how the records of a table are identified as unique and the
-ability to know and ways to identify the join of two tables whether they are a
-one to zero relationship, one to one relationship, and one to many relationship.
-* The ability to use window functions that involve partitioning, sorting and
-ranking records (row_number, rank, dense_rank), getting the values from previous
-or subsequent records (lag, lead), and the ability to do cumulative sums (rows
-between unprecedented and current).
-* To understand the advantages and disadvantages of a relational and columnar
-database and how to use indexes and partition columns correspondingly.
+* **SQL Keywords:** To know the order of execution of all the basic keywords of a
+query and how to use them properly (SELECT, FROM, WHERE, GROUP BY, HAVING)
+* **Aggregates, Data Types & Manipulation:** The ability to understand the data
+types of each column, how to manipulate strings, the ability to use conditional
+statements and how to aggregate data by picking the max, min, sum, average,
+median and so on.
+* **Joins:** The ability to know what the most proper joins against several
+tables, that includes left join, right join, inner join, full outer join, union,
+union all.
+* **Null Values:** The ability to understand what NULL represents in a column and
+the corresponding Boolean logic (true or false) when evaluating against null
+values.
+* **Cardinality:** Understanding how the records of a table are identified as
+unique and the ability to know and ways to identify the join of two tables
+whether they are a one to zero relationship, one to one relationship, and one to
+many relationship.
+* **Window Functions:** The ability to use window functions that involve
+partitioning, sorting and ranking records (row_number, rank, dense_rank),
+getting the values from previous or subsequent records (lag, lead), and the
+ability to do cumulative sums (rows between unprecedented and current).
+* **Advantages of each database:** To understand the advantages and disadvantages
+of a relational and columnar database and how to use indexes and partition
+columns correspondingly.
 
 Although all of the above are easy to learn, they are very hard to master.
 Courses that provide exercises and assignments can teach you fast the basics,
@@ -216,8 +256,16 @@ difficult challenges on your data explorations that you do within your side
 projects and you will only encounter them on greater undertakings that involve
 in the exploration of big volumes of data.
 
+### **CHAPTER 2: DATA PIPELINES**
+
 **Great boats are not bought from others. Great boats are built from scratch
 that retains great bonds with the owner since the first days they get raised.**
+
+![](https://cdn-images-1.medium.com/max/800/1*9fq--sZmzBSQaIgRJUd7Gg.png)
+<br>*Creating a data pipeline requires you to learn different types of data
+operations that each takes time to master. Setting the proper data models,
+writing reusable general scripts and taking advantage of what each database
+offers helps in making data pipelines more efficient.*
 
 Running a ship from a great owner is great but building one from your own shows
 you can take complete charge of the whole journeys on terrains that were never
@@ -232,23 +280,24 @@ This expands the responsibilities that you have to take as a data engineer where
 having a long-term strategy of the stuff that you are creating becomes more
 important than ever before. Creating data pipelines include the following:
 
-* The ability to set up and configure the appropriate packages on your computer
-instances.
-* The ability to do various data operations, such as download, import, export
-across databases, data lakes, local instances and FTP servers.
-* The ability to optimize existing pipelines by using the right data models, such
-as storing your historical data more efficiently (SCD Type II) and effectively
-(by using partitions), as well using a star or snowflake schema to store slow
-changing fields and attributes within dimensions and fast-changing fields and
-transactions in facts.
-* The ability to update tables incrementally via upserts, replicating metadata
-changes from one database to another, as well the ability for the server to
-retry failed attempts due to timeout sessions and temporary internal server
-errors.
-* The ability to write several general scripts that can be reused for all the data
-operations that you need to run within your project.
-* To take the most advantage of the different features each different type of
-database or instance provides.
+* **Config:** The ability to set up and configure the appropriate packages on your
+computer instances.
+* **Data Operations:** The ability to do various data operations, such as
+download, import, export across databases, data lakes, local instances and FTP
+servers.
+* **Database Model:** The ability to optimize existing pipelines by using the
+right data models, such as storing your historical data more efficiently (SCD
+Type II) and effectively (by using partitions), as well using a star or
+snowflake schema to store slow changing fields and attributes within dimensions
+and fast-changing fields and transactions in facts.
+* **Replication:** The ability to update tables incrementally via upserts,
+replicating metadata changes from one database to another, as well the ability
+for the server to retry failed attempts due to timeout sessions and temporary
+internal server errors.
+* **Scripts:** The ability to write several general scripts that can be reused for
+all the data operations that you need to run within your project.
+* **Knowledge of various Database Types:** To take the most advantage of the
+different features each different type of database or instance provides.
 
 Although setting up a local relational database is easy as writing three command
 lines in your operating system, other proprietary databases need you to connect
@@ -274,9 +323,18 @@ the middle of the night and how do you evaluate the impact of a collision like
 that to remedy the effect before the whole ship starts to sink? What do you do
 when your ship comes with something unexpected like a big whale swarming by?
 
+### **CHAPTER 3: MONITORING TOOLS**
+
 **Set the flashlights on, the speakers on, a toolbox and a map on-board, and
 someone to oversee the surrounding area from the top. It is better to be ready
 for any event that will surprise us so we do not miss our spot!**
+
+![](https://cdn-images-1.medium.com/max/1000/1*D8g_pwqatTB2uKmdkVaVeA.png)
+<br>*Arthur IV is said to be protected by the gods. But if we look under the surface,
+the ship is bundled with several monitoring tools. Having all your source code
+organized in a version control system, documenting everything from a top-down
+and bottom-up view, being pro-active by logging all your activity and debugging
+whenever an alert shows up will make your ship bulletproof.*
 
 Arthur ship may not be the hugest one or one that has recently been built, but
 boy, has time proven the ship to be a legend? The ship named Arthur comes from
@@ -292,24 +350,25 @@ from the start, I like your effort and you my child have shown potential. Very
 well, this secret recipe comes from my great-grandfather. Follow them well and
 you may become a legend one day. The steps are:”
 
-* You have to show your source code to the light of everyone. In order to do that,
-you have to store all your source code in a version control system that is
-accessible and readable. Where your files and subsequent changes are organized
-appropriately. And last but not least, the ability to search the code with ease
-in the same way you type something on your favorite search engine.
-* All source code can be seen more clearly if we are able to put all our
-coordinates on a map while keeping notes of all our journey we have explored so
-far through a journal. I leave that up to your imagination, as long it becomes
-useful to you and the rest of your crew. Drawing diagrams with icons may sound a
-thing only user interface designers do these days, but boy does a documentation
-fits the bill well for that too. All you have to do is get either a software
-that has all things set up for you or get a digital or physical pen and start
-drawing rectangles, circles, arrows and pasting open source clip art images and
-you have something for others to follow for understanding your data flow which
-you can later share them on a blog so you can recruit more people on your crew
-that will be fond of your creations. Make sure all your journey is in a diary
-with descriptive narratives of what roadblocks you explored (also called the
-story part of writing a ticket) and how your genius mind of yours found the
+* **Version Control System:** You have to show your source code to the light of
+everyone. In order to do that, you have to store all your source code in a
+version control system that is accessible and readable. Where your files and
+subsequent changes are organized appropriately. And last but not least, the
+ability to search the code with ease in the same way you type something on your
+favorite search engine.
+* **Documentation:** All source code can be seen more clearly if we are able to
+put all our coordinates on a map while keeping notes of all our journey we have
+explored so far through a journal. I leave that up to your imagination, as long
+it becomes useful to you and the rest of your crew. Drawing diagrams with icons
+may sound a thing only user interface designers do these days, but boy does a
+documentation fits the bill well for that too. All you have to do is get either
+a software that has all things set up for you or get a digital or physical pen
+and start drawing rectangles, circles, arrows and pasting open source clip art
+images and you have something for others to follow for understanding your data
+flow which you can later share them on a blog so you can recruit more people on
+your crew that will be fond of your creations. Make sure all your journey is in
+a diary with descriptive narratives of what roadblocks you explored (also called
+the story part of writing a ticket) and how your genius mind of yours found the
 easiest way to overcome the obstacle by using the least resources from you crew
 (also called the minimum viable product of writing a ticket). Look how big
 companies overcome their challenges these days. Every task that has been agreed
@@ -319,30 +378,31 @@ team. Look also how the two big cloud service providers have extensive general
 documentation for the services that provide to their clients so they can save
 the cost of hiring consultants on setting up their instances and do it by
 themselves IKEA style.
-* Keep the radio on while you sleep in case you start hearing a distressing call.
-Given that our journey is always in the middle of nowhere, your radio will be
-playing full of noise and nothing out of the ordinary. But in few occasions, you
-may be surprised to hear sirens echoing in. It is those moments you were waiting
-for yourself to be a professional hero. Another day to capture yourself in the
-middle of the night to save the ship from a dent that came from a series of
-unfortunate events. In order to do this effectively, you have to log all your
-data operations activity in a logger where it is easy to search specific
-activity and the ability to create trigger alerts with specific keywords found
-within the log. The more neat, detailed and informative the log activity, the
-easier it will be to access the information and have the ability to identify the
-root of the issue. Having as well daily summary health reports of the completion
-time of data operations that you run, the number of records each table accounts
-and the resources all queries consumed gives you presentable information at your
-disposal immediately which you can archive them for historical purposes.
-* Having an alarm in our bed is just only half of the step in dealing with an
-unexpected event. It was meant to be part of the main action. Do not try to go
-back to bed every time you hear the alarm unless you want one day to be under
-the water. Cleaning up the mess and the leaks of the ship are left for the crew.
-As a captain, you have to identify and fix the root of the issue with your
-handy-dandy toolbox named as mister debugger. Mister debugger is similar to how
-a forensic team identifies a crime scene. You get some samples out of your data
-and go down deep the rabbit hole until you find something irregular where you
-can scientifically replicate your findings.
+* **Logging & Alerts:** Keep the radio on while you sleep in case you start
+hearing a distressing call. Given that our journey is always in the middle of
+nowhere, your radio will be playing full of noise and nothing out of the
+ordinary. But in few occasions, you may be surprised to hear sirens echoing in.
+It is those moments you were waiting for yourself to be a professional hero.
+Another day to capture yourself in the middle of the night to save the ship from
+a dent that came from a series of unfortunate events. In order to do this
+effectively, you have to log all your data operations activity in a logger where
+it is easy to search specific activity and the ability to create trigger alerts
+with specific keywords found within the log. The more neat, detailed and
+informative the log activity, the easier it will be to access the information
+and have the ability to identify the root of the issue. Having as well daily
+summary health reports of the completion time of data operations that you run,
+the number of records each table accounts and the resources all queries consumed
+gives you presentable information at your disposal immediately which you can
+archive them for historical purposes.
+* **Debugging:** Having an alarm in our bed is just only half of the step in
+dealing with an unexpected event. It was meant to be part of the main action. Do
+not try to go back to bed every time you hear the alarm unless you want one day
+to be under the water. Cleaning up the mess and the leaks of the ship are left
+for the crew. As a captain, you have to identify and fix the root of the issue
+with your handy-dandy toolbox named as mister debugger. Mister debugger is
+similar to how a forensic team identifies a crime scene. You get some samples
+out of your data and go down deep the rabbit hole until you find something
+irregular where you can scientifically replicate your findings.
 
 If you have not noticed, all these steps mentioned above are just basic
 housekeeping anybody can do which may feel unimportant because they do not seem
@@ -352,9 +412,17 @@ saying that cleanliness is half of the faith. Our ship would not have been long
 spirited to this day if we have not spent half of our time on keeping up with
 all the unexpected it could happen to it.
 
+### **CHAPTER 4: PRODUCTIVITY TOOLS**
+
 **Be more productive in your trade by using natural language, interpreted
 language within a Linux environment and do more audit instead of full
 comprehensive tests.**
+
+![](https://cdn-images-1.medium.com/max/800/1*Aec62HdhkT6nwMrKlq6gSA.png)
+<br>*Make sure your productivity toolbox is fully stacked. Using interpreted
+languages and doing audit tests can take you miles away from the rest.*
+
+#### Interpreted & Natural Languages
 
 Today, SQL and Python are the most popular languages on interacting with your
 raw data. One big corporation only needs its entry-level data engineers to know
@@ -378,6 +446,8 @@ use this service, the more valuable it becomes. Learning SQL in your data career
 is like learning English as your second language so you can work at a popular
 tourist destination.
 
+#### Audit Tests
+
 The last thing in improving your work productivity is by auditing a subset of
 your data on your test runs instead of the full dataset. Imagine that every time
 you find a unique error after your data has been processed for an hour while
@@ -391,8 +461,16 @@ problem until it gets completely resolved. Leave the comprehensive test runs as
 your last tests and resolve the most of your errors like a graphic designer
 would do.
 
+### **CHAPTER 5: AUTOMATION & INNOVATION**
+
 **As a captain, your time is precious. Let the boring stuff be automated or done
 by others, but remember that your role there is still to innovate.**
+
+![](https://cdn-images-1.medium.com/max/800/1*Jj4wI1QrRYEB6xvhDCHJcg.png)
+<br>*Developer tools are great for building stuff that cannot be abstracted away. But
+remember, it is foolish on reinventing the wheel. Find ways to automate mundane
+work in order to focus more on adding value in new ways within your
+organization.*
 
 Although your handy dandy tools do not drag and drop where you can get all your
 daily business operations abstracted away, they are developer tools that allow
@@ -409,18 +487,21 @@ providing solutions where we can deliver more of the demanding needs of our
 customers that are still not catered to this day. As a data engineer your duties
 are twofold:
 
-* Find solutions that can abstract away work that takes too much of your work time
-without doing too many compromises of what has worked well before. If a third
-party service that can do that stuff for you is cheap and not limited to what
-you currently already do, then it is worth to give it a shot. Otherwise,
-automating it with your own custom scripts will still do ways by saving up your
-time for focusing on more important tasks within your organization.
-* Find ways to find more innovative solutions, as in, is there a better way in how
-we currently process our data? Is the current algorithm effective enough on
-forecasting and recommending the best results? Is the way we transfer data and
-query the data comparably fast and cheap enough? Those and other questions that
-are not provided out of the box are problems that you have to start thinking out
-of the box.
+* **Automate:** Find solutions that can abstract away work that takes too much of
+your work time without doing too many compromises of what has worked well
+before. If a third party service that can do that stuff for you is cheap and not
+limited to what you currently already do, then it is worth to give it a shot.
+Otherwise, automating it with your own custom scripts will still do ways by
+saving up your time for focusing on more important tasks within your
+organization.
+* **Innovate:** Find ways to find more innovative solutions, as in, is there a
+better way in how we currently process our data? Is the current algorithm
+effective enough on forecasting and recommending the best results? Is the way we
+transfer data and query the data comparably fast and cheap enough? Those and
+other questions that are not provided out of the box are problems that you have
+to start thinking out of the box.
+
+### **CHAPTER 6: COMMUNICATION**
 
 **If the crew does not understand the decisions a captain provides or the crew
 influences the captain to the wrong direction or are in disagreement, it becomes
@@ -508,6 +589,8 @@ these relationships end up fragmented or turn out sour, let us take care of the
 relationships with others appropriately before these issues become harder to
 discuss down the road.
 
+### **CHAPTER 7: SKILLS**
+
 **Sharpen your skills, do not let your tools of the trade become rusty or else
 your rivals will reach to the treasure before you do. Do a lot of side quests
 before you dive through a main challenging quest.**
@@ -556,6 +639,8 @@ we solved an existing problem. Besides having the special opportunity for
 mastering the tasks you did not have the time before, you will gain more
 visibility to what you already know and be more confident on your existing
 skills which you can showcase yourself to others.
+
+### **CHAPTER 8: MOTIVATION**
 
 **The compass is the most important object a captain has in his possession.
 Vision first, Mission second.**
@@ -672,10 +757,13 @@ or are too stressful on defending it, but have it not been what all
 organizations were founded from? Know well what positive contributions the core
 business of your organization covers. It should be your elevator pitch.
 
-**Conclusion**
+### **CONCLUSION**
 
-![thestatsofadataengineer](https://user-images.githubusercontent.com/12673581/41634977-cad74456-7478-11e8-8eda-873e2c84dd17.png)
-<br>*Remember, think of Data Engineering like a soccer match. Not all are attackers, neither all are defenders, even star players on the midfield may not be proportionally all good on the different type of tasks that we have just described so far.*
+![](https://cdn-images-1.medium.com/max/800/1*TwxOo_xBszfD2ayWzgJlyg.png)
+<br>*Remember, think of Data Engineering like a soccer match. Not all are attackers,
+neither all are defenders, even star players on the midfield may not be
+proportionally all good on the different type of tasks that we have just
+described so far.*
 
 If you have reached so far, you did well. Now you are ready to master all the
 basics of a data engineer. Getting the proper education at school and while at
