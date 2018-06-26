@@ -4,17 +4,17 @@
 
 #### CONTENTS
 
-1.  **INTRODUCTION**
-2.  **PREFACE: EDUCATION**
-3.  **CHAPTER 1: DATA EXPLORATION**
-4.  **CHAPTER 2: DATA PIPELINES**
-5.  **CHAPTER 3: MONITORING TOOLS**
-6.  **CHAPTER 4: PRODUCTIVITY TOOLS**
-7.  **CHAPTER 5: AUTOMATION & INNOVATION**
-8.  **CHAPTER 6: COMMUNICATION**
-9.  **CHAPTER 7: SKILLS**
-10.  **CHAPTER 8: MOTIVATION**
-11.  **CONCLUSION**
+1.  [**INTRODUCTION**](#introduction)
+2.  [**PREFACE: EDUCATION**](#preface-education)
+3.  [**CHAPTER 1: DATA EXPLORATION**](#chapter-1-data-exploration)
+4.  [**CHAPTER 2: DATA PIPELINES**](#chapter-2-data-pipelines)
+5.  [**CHAPTER 3: MONITORING TOOLS**](#chapter-3-monitoring-tools)
+6.  [**CHAPTER 4: PRODUCTIVITY TOOLS**](#chapter-4-productivity-tools)
+7.  [**CHAPTER 5: AUTOMATION & INNOVATION**](#chapter-5-automation--innovation)
+8.  [**CHAPTER 6: COMMUNICATION**](#chapter-6-communication)
+9.  [**CHAPTER 7: SKILLS**](#chapter-7-skills)
+10. [**CHAPTER 8: MOTIVATION**](#chapter-8-motivation)
+11. [**CONCLUSION**](#conclusion)
 
 ### **INTRODUCTION**
 
