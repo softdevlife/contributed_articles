@@ -503,6 +503,14 @@ to start thinking out of the box.
 
 ### **CHAPTER 6: COMMUNICATION**
 
+**If the crew does not understand the decisions a captain provides or the crew
+influences the captain to the wrong direction or are in disagreement, it becomes
+a short-sighted strategy to follow. The best ships have a crew that understand
+the different perspectives a captain holds on venturing new terrains as well the
+captain understands the strengths and weaknesses of each of his key members in
+his tribe and work each to the things that they are great at so together can
+bring a synergy to the obstacles that they will have to face ahead.**
+
 ![](https://cdn-images-1.medium.com/max/1000/1*C5vL5FmlT2slf6Cv8IYHSQ.png)
 <br>*In order for a captain’s message can reach out to his crew, artifacts and
 processes must be created within his island. Having a laboratory where anybody
@@ -511,14 +519,6 @@ to make arrangements and retrospectives, training users in a gym on all aspects
 of the business and IT infrastructure, and taking the strengths of the other
 members within your group in order to create synergy are all great signs of
 leadership.*
-
-**If the crew does not understand the decisions a captain provides or the crew
-influences the captain to the wrong direction or are in disagreement, it becomes
-a short-sighted strategy to follow. The best ships have a crew that understand
-the different perspectives a captain holds on venturing new terrains as well the
-captain understands the strengths and weaknesses of each of his key members in
-his tribe and work each to the things that they are great at so together can
-bring a synergy to the obstacles that they will have to face ahead.**
 
 Understanding the rest of the crew that consumes the data you prepare is an
 important element, especially if the rookies were recently recruited or are
