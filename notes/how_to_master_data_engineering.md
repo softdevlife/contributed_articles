@@ -35,7 +35,7 @@ or you think you need to learn during your career is even more important than
 what you learned before you graduated.**
 
 ![](https://cdn-images-1.medium.com/max/800/1*uYUadzYrtzEhQVlrueimYA.png)
-<br>*Remember, like in every draft, you have to prove your own potential within your
+<br>*Like in every draft, you have to prove your own potential within your
 college days, boot camps, and interviews. But that is just the first step of the
 journey. The rest, you have to learn them as well within the time-frame of your
 career.*
@@ -503,6 +503,15 @@ to start thinking out of the box.
 
 ### **CHAPTER 6: COMMUNICATION**
 
+![](https://cdn-images-1.medium.com/max/1000/1*C5vL5FmlT2slf6Cv8IYHSQ.png)
+<br>*In order for a captain’s message can reach out to his crew, artifacts and
+processes must be created within his island. Having a laboratory where anybody
+can grab their insights with ease and flexibility, having a town hall in order
+to make arrangements and retrospectives, training users in a gym on all aspects
+of the business and IT infrastructure, and taking the strengths of the other
+members within your group in order to create synergy are all great signs of
+leadership.*
+
 **If the crew does not understand the decisions a captain provides or the crew
 influences the captain to the wrong direction or are in disagreement, it becomes
 a short-sighted strategy to follow. The best ships have a crew that understand
@@ -526,59 +535,66 @@ you have to coordinate appropriately based on the maturity of the organization
 and the depth of expertise the person that you are talking to. To keep the crew
 in spirit with your ideas, you should:
 
-* Have some basic reports, dashboards, and other tools for the users that are less
-initiated on exploring data within your organization.
-* Prepare small white papers and documentation of best practices users should do
-when retrieving data with the database so everyone is on the same page.
-* Have the proper data literacy training provided to users who want to make
-insights through raw data that currently don’t do it effectively or properly.
-* Make sure all business requirements are documented like reading a game
-walkthrough so you don’t need to discuss with your friends on how to progress
-the game for the most of the stuff whenever you get lost. Google, for instance,
-provides what each column within their Google analytics sessions represent and
-provide informative videos on how everything works under the hood. Instead of
-getting stuck on finishing the game in week, months, years, a walkthrough helps
-you to master most of what the business represents within a week so you can
-start making an impact to your organization from month one.
-* Find data solutions that are tailored for users that want to make an analysis on
-huge sets amount of data. In most cases, an open source or proprietary columnar
-database that gets accessed through a software that streamlines data exploration
-will enable your users to get more sophisticated insights than they did before.
-* Have all that has been communicated delivered in a written form to avoid
-miscommunication and misunderstandings. It is pretty ironic if your organization
-does not do that. If an organization tracks user behavior to make insights into
-what is happening, why do not do that the same for the internal employees that
-are working there? Even in organisations that have shown the highest degree of
-trust, sometimes we slip into biases: the people that you outsource will do
-shortcuts on the requirements that you provide, people will make wrong
-priorities of the tasks they have to do based on with the people who they have
-talked the most instead of the people that need the most attention.
-* Make sure the business requirements given are concise and specific as possible
-and the tasks provided follow the norms of providing ample time for completing
-the task without any sign of urgency. Furthermore, contacting your crew every
-quarter for long-term strategic goals in the ventures that you all want to
-explore is essential so all people are in agreement on differentiating between
-the most important and the less important tasks which can be spilled over to the
-rest of the quarters. When they come and complain and forget what has been
-discussed before, remind them about it and teach them to have the patience on
-sticking with it. Make sure on those long-term strategy discussions that you
-give enough time to your own personal self on learning new skills of your trade
-that may help within your current crew in your future endeavors.
-* Learn and appreciate the strengths of each key member within your tribe. After
-all, you are riding your ship along with others. A lot of organizations embrace
-diversity within the same domain of thought. Think of it like a soccer match.
-Not all are attackers, neither all are defenders, even star players on the
-midfield may not be proportionally all good on the different type of tasks that
-we have just described so far. Acknowledge each members strength and place them
-in a field they are most comfortable with to boost the team chemistry. A lot of
-successful organizations do that and create a workplace everyone wants to work,
-resulting in the lowest attrition possible. For instance, in one of my school
-projects, we created a social network with the most basic features in two days
-with two students that I never met before. Regardless, we created the best
-project in our class because we complemented our own unique skills with each
-other (one in the front end, another one on the back end, and another one
-writing the documentation). We were all shocked by how we were able to achieve
-that within a limited amount of time. Let us not make 1+1=2, but 1+1=3.
+* **Dashboards & Drill Down Results:** Have some basic drill down reports,
+dashboards, and other tools for the users that are less initiated on exploring
+data within your organization.
+* **Efficient Use:** Prepare small white papers and documentation of best
+practices basic users should do when retrieving data with the database so
+everyone is on the same page.
+* **Data Literacy:** Have the proper data literacy training provided to advanced
+users who want to make insights through raw data that currently don’t do it
+effectively or properly.
+* **Business Domain:** Make sure all business requirements are documented like
+reading a game walkthrough so you don’t need to discuss with your friends on how
+to progress the game for the most of the stuff whenever you get lost. Google,
+for instance, provides what each column within their Google analytics sessions
+represent and provide informative videos on how everything works under the hood.
+Instead of getting stuck on finishing the game in week, months, years, a
+walkthrough helps you to master most of what the business represents within a
+week so you can start making an impact to your organization from month one.
+* **State Of the Art Analytics Environments:** Find data solutions that are
+tailored for users that want to make an analysis on huge sets amount of data. In
+most cases, an open source or proprietary columnar database that gets accessed
+through a software that streamlines data exploration will enable your users to
+get more sophisticated insights than they did before.
+* **Solid Arrangements:** Have all that has been communicated delivered in a
+written form to avoid miscommunication and misunderstandings. It is pretty
+ironic if your organization does not do that. If an organization tracks user
+behavior to make insights into what is happening, why do not do that the same
+for the internal employees that are working there? Even in organisations that
+have shown the highest degree of trust, sometimes we slip into biases: the
+people that you outsource will do shortcuts on the requirements that you
+provide, people will make wrong priorities of the tasks they have to do based on
+with the people who they have talked the most instead of the people that need
+the most attention.
+* **Quarterly Feedback:** Make sure the business requirements given are concise
+and specific as possible and the tasks provided follow the norms of providing
+ample time for completing the task without any sign of urgency. Furthermore,
+contacting your crew every quarter for long-term strategic goals in the ventures
+that you all want to explore is essential so all people are in agreement on
+differentiating between the most important and the less important tasks which
+can be spilled over to the rest of the quarters. When they come and complain and
+forget what has been discussed before, remind them about it and teach them to
+have the patience on sticking with it. Make sure on those long-term strategy
+discussions that you give enough time to your own personal self on learning new
+skills of your trade that may help within your current crew in your future
+endeavors.
+* **Synergy:** Learn and appreciate the strengths of each key member within your
+tribe. After all, you are riding your ship along with others. A lot of
+organizations embrace diversity within the same domain of thought. Think of it
+like a soccer match. Not all are attackers, neither all are defenders, even star
+players on the midfield may not be proportionally all good on the different type
+of tasks that we have just described so far. Acknowledge each members strength
+and place them in a field they are most comfortable with to boost the team
+chemistry. A lot of successful organizations do that and create a workplace
+everyone wants to work, resulting in the lowest attrition possible. For
+instance, in one of my school projects, we created a social network with the
+most basic features in two days with two students that I never met before.
+Regardless, we created the best project in our class because we complemented our
+own unique skills with each other (one in the front end, another one on the back
+end, and another one writing the documentation). We were all shocked by how we
+were able to achieve that within a limited amount of time. Let us not make
+1+1=2, but 1+1=3.
 
 Following the above is essential for the organization to have a long-term
 relationship between the captain and the crew, between captains and other
@@ -594,6 +610,14 @@ discuss down the road.
 **Sharpen your skills, do not let your tools of the trade become rusty or else
 your rivals will reach to the treasure before you do. Do a lot of side quests
 before you dive through a main challenging quest.**
+
+![](https://cdn-images-1.medium.com/max/1000/1*Dcvg24dnCy0hKI5nD0t_mQ.png)
+<br>*To be good at something today does not mean it will still count as good
+tomorrow. Always learn the latest tools and methods associated with your trade
+and re-assess yourself with side projects in order to fill any gaps that you may
+have missed.*
+
+#### Be updated on the tools and methods associated with your trade
 
 A lot of people enjoy the pleasure of working your nine to five job and flip 180
 degrees after they leave their workplace and pretend that what they did in the
@@ -624,6 +648,8 @@ flexible times so they can brush up their existing skills. In return, they grow
 their talents over time and are quite content for ensuring with themselves that
 the future of their career is more secure.
 
+#### Place your skills on check with side projects
+
 A great thing a data engineer should do is to recycle what he learned during his
 education, his homework, his workplace, and the freelance work he did and
 transform them as useful public side projects. Not only you will have a
@@ -644,6 +670,12 @@ skills which you can showcase yourself to others.
 
 **The compass is the most important object a captain has in his possession.
 Vision first, Mission second.**
+
+![](https://cdn-images-1.medium.com/max/800/1*4PbpGt97vv2s-0Wz31Bo5g.png)
+<br>*Remember, your target is not a specific destination, but wherever a treasure
+crosses the map. Do research on several journeys that you desire to explore.
+Always find a resolution within the obstacles along your way. When the tides
+become too high, don’t be afraid to fall back to your other journeys.*
 
 What happens when you reach a dead end or have been set up by your rivals or got
 completely disillusioned to a destination that actually does not exist leaving
@@ -666,6 +698,8 @@ all can fit on the same vision of “shedding the light back on bringing
 innovation within the physical structure of our world like the times we built
 airplanes and nuclear plants”.
 
+#### Be a role model of your passion
+
 In order to find the passion that you will be interested, you have to
 self-discover what ticks you up all day. Once you find it out, be expressive
 about it and use your thinking caps in what ways you can bring impact to the
@@ -686,6 +720,8 @@ to miss under such leadership. Respectively, instead of arguing about the topics
 you love as a dead end, think about the ways you can bring solutions to the
 table where tomorrow the skies look a little bit more clear than they used to
 before.
+
+#### Creating a set of case studies
 
 Having constant passion of something general you are interested at and having a
 practical mindset around it will ultimately become a great motivator for what
@@ -726,17 +762,18 @@ dead end? Have you noticed that the answers contain the words tracking,
 insights, input, recommend? If so, is it data related? So what can we get from
 the example that I am honestly passionate about:
 
-* I definitely did my research. Always learn more about what you are passionate
-about and one way to learn about that topic is what others are saying about this
-topic through books and articles.
-* Make sure you get advise from others on your ideas whenever possible and try to
-fit your ideas within our society on something that could possibly work at some
-odds, not by complaining without giving any sides for a resolution.
-* Have at least three different plans and test them out. Only then you will know
-if it was actually what you expected. Our imagination many times deviates from
-reality. It could be that you realize that it is not as meaningful as you hoped
-for later on or it is currently too far-fetched and will not provide too much
-impact at this moment.
+* **Research:** I definitely did my research. Always learn more about what you are
+passionate about and one way to learn about that topic is what others are saying
+about this topic through books and articles.
+* **Practical:** Make sure you get advise from others on your ideas whenever
+possible and try to fit your ideas within our society on something that could
+possibly work at some odds, not by complaining without giving any sides for a
+resolution.
+* **Diversify:** Have at least three different plans and test them out. Only then
+you will know if it was actually what you expected. Our imagination many times
+deviates from reality. It could be that you realize that it is not as meaningful
+as you hoped for later on or it is currently too far-fetched and will not
+provide too much impact at this moment.
 
 A lot of data engineers that I listen to their presentations or have few met so
 far feel like the topic of their motivation is how they can expand their
@@ -758,12 +795,10 @@ organizations were founded from? Know well what positive contributions the core
 business of your organization covers. It should be your elevator pitch.
 
 ### **CONCLUSION**
-
 ![](https://cdn-images-1.medium.com/max/800/1*TwxOo_xBszfD2ayWzgJlyg.png)
-<br>*Remember, think of Data Engineering like a soccer match. Not all are attackers,
-neither all are defenders, even star players on the midfield may not be
-proportionally all good on the different type of tasks that we have just
-described so far.*
+<br>*Think of Data Engineering like a soccer match. Not all are attackers, neither
+all are defenders, even star players on the midfield may not be proportionally
+all good on the different type of tasks that we have just described so far.*
 
 If you have reached so far, you did well. Now you are ready to master all the
 basics of a data engineer. Getting the proper education at school and while at
@@ -794,4 +829,4 @@ out of it, and with experience, you will go to farther destinations with various
 weather conditions that you are currently were never waiting for. Best wishes
 and hope we meet one day.
 
-Sincerely,<br> Fearless dweller of the seven seas
+Sincerely,<br> *Fearless dweller of the seven seas*
