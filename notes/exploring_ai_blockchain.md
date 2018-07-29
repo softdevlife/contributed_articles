@@ -59,15 +59,15 @@ Blochain, at this moment, is at its infancy. A lot of hype is going on. There ar
 
 Since anything on the internet related to Blockchain can be shady, going to an event is a great idea. Last week, I went to an event that discussed Blockchain from several leaders in the field. Here are my takeaways: 
 
-### Blockchain winter is coming...
+### Blockchain winter is coming
 
 If you take into account that 90% of the projects are scams with most of them having no product demos or prototypes to show, you have to start wondering if we are in some sort of bubble. If projects are short-lived and many of them do not make any practical sense to be applied in the blockchain in the first place, there is no much solid ground for this technology to fly out in the skies. Blockchain technology is starting to lose credibility these days as there have not been many practical applications to this day. Furthermore, the cost of incorporating these projects into the Blockchain ecosystem may not be worth for its benefits. Investors need to be careful by having certain criteria from discerning between good and bad Blockchain projects. For the less tech-savvy, having a consultant that can help you as an intermediary for your investment opportunities with Blockchain is best advisable.
 
-### Blockchain has potential...
+### Blockchain has potential
 
 There is a lot of use cases though where Blockchain technology can be applied in projects. Take for instance abstracting the process of claims in insurance with blockchain contracts. In those instances, the intermediary of handling the insurance claim is gone and blockchain handles the transaction with automated code. Other good use cases are verifying the authenticity of products. Have you ever considered whether a supplier in the marketplace sold genuine branded products? Blockchain can help by having all the records the product went through from its origin. Looking forward, there will be more projects that revolve around removing the intermediary that authenticates users and retains data integrity.
 
-### Looking at the future...
+### Looking at the future
 
 Admittedly, Blockchain is at the exploration phase just like AI did in its early days. The ones that will thrive are ones that prioritize ideas that will bring the most business impact within the current limitations of the technology.  They should focus on bringing their idea to fruition with the least investment. They should also have a viable product to demonstrate that people can try and use before asking for investments (most preferably, outside of ICO). The company should also need to have a great leadership team that can stick with the vision in times where the technology can face turbulent times. 
 
