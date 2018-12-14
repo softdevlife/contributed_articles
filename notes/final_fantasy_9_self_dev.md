@@ -1,5 +1,8 @@
 # Final Fantasy 9 is still the best game to learn more about our self
 
+![pexels-photo-532860](https://user-images.githubusercontent.com/12673581/49986074-60991080-ffa9-11e8-9e01-058cbcdcba09.jpeg)
+<br>_The story revolves around a kingdom that was in great turmoil. The queen was manipulated to become insecure and paranoid over others while the princess did not have any clue what lied beyond her kingdom. Although the kingdom went back to its own glory, most of the emphasis within the story revolves around the protagonists personally growing during the process._
+
 **Note:** The discussion below will include a lot of spoilers about the story of the game. You have been warned.
 
 ## The definition of a tragedy play
